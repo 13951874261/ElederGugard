@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">孝心守护·全能盾</string>
+    <string name="accessibility_service_label">孝心守护·防诈引擎</string>
+    <string name="accessibility_service_description">实时的反诈骗保护与流氓软件自动清理服务。请开启以保护您的财产安全。</string>
+</resources>

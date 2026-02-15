@@ -1,0 +1,7 @@
+{
+  "name": "孝心守护·全能盾",
+  "description": "专为长辈设计的智能安全守护系统，双核防御，防诈骗，清垃圾。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
